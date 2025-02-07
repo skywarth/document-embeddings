@@ -29,3 +29,4 @@ jobs:
         with:
           package_manager: yarn 
           working_path: ./example
+          build_path: ./example
